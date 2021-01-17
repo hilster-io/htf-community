@@ -1,4 +1,4 @@
-# HILSTER Testing Framework Community Add-Ons
+# HILSTER Testing Framework Community Add-ons
 
 Welcome to the community add-ons repository for [HILSTER Testing Framework](https://docs.hilster.io/htf/latest/).
 
